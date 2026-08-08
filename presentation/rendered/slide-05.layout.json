@@ -1,0 +1,786 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/j6huiw",
+    "id": "j6huiw",
+    "slide": 5,
+    "layoutId": "9c2fa7b5-89ac-4061-9681-aa371c215753",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "c3c351d7-9bde-4c9b-8e46-6c2ca8cce199",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Helvetica Neue"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "9c2fa7b5-89ac-4061-9681-aa371c215753",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "c3c351d7-9bde-4c9b-8e46-6c2ca8cce199",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "c3c351d7-9bde-4c9b-8e46-6c2ca8cce199",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zyhgr2lo",
+      "id": "1",
+      "name": "Google-Shape-532-p58-2",
+      "bbox": [
+        1184.18,
+        659.24,
+        54.48,
+        25.33
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0"
+      },
+      "geometry": "rect",
+      "text": "5",
+      "textPreview": "5",
+      "resolvedFontSize": 13.33,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "fontSize": 13.33,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "right",
+        "verticalAlignment": "bottom",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "5"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "5",
+          "resolvedTextStyle": {
+            "anchor": 3,
+            "fontSize": 13.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "right",
+            "verticalAlignment": "bottom",
+            "wrap": "square",
+            "autoFit": "none",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "5",
+              "anchor": 3,
+              "fontSize": 13.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "right",
+              "verticalAlignment": "bottom",
+              "wrap": "square",
+              "autoFit": "none",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0zqh0729",
+      "id": "2",
+      "name": "Google-Shape-533-p58-3",
+      "bbox": [
+        41.33,
+        36.12,
+        1197.33,
+        109.97
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1"
+      },
+      "geometry": "rect",
+      "text": "Manager tools and handoffs",
+      "textPreview": "Manager tools and handoffs",
+      "resolvedFontSize": 38.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 38.67,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Manager tools and handoffs"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Manager tools and handoffs",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 38.67,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "none",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Manager tools and handoffs",
+              "anchor": 1,
+              "fontSize": 38.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "none",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l0zytc3u",
+      "id": "3",
+      "name": "Picture-3-4-backing",
+      "bbox": [
+        658.17,
+        41.62,
+        581.6,
+        588.14
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.2"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#EAF5FB",
+      "lineColor": "#B8BCC4",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/vedkrahc",
+      "id": "4",
+      "name": "Picture-3-4",
+      "bbox": [
+        658.17,
+        41.62,
+        581.6,
+        588.14
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.3"
+      },
+      "geometry": "roundRect",
+      "alt": "hero placeholder for Picture 3",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "roundRect"
+      },
+      "prompt": "Clean editorial light-blue conceptual image with subtle architectural geometry, ample white space, and no embedded text",
+      "isPlaceholder": true,
+      "asset": {
+        "assetId": "6b8aa204-bf1e-4226-b1f7-47ee8b88a6c2",
+        "prompt": "Clean editorial light-blue conceptual image with subtle architectural geometry, ample white space, and no embedded text"
+      }
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n2hgvm1k",
+      "id": "5",
+      "name": "Google-Shape-534-p58-5",
+      "bbox": [
+        41.33,
+        213.33,
+        581.33,
+        416
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.4"
+      },
+      "geometry": "rect",
+      "text": "Manager + handoffs\nComplete reviews use agents-as-tools so the manager can combine every specialist. Focused questions use SDK handoffs so one specialist takes control.",
+      "textPreview": "Manager + handoffs | Complete reviews use agents-as-tools so the manager can combine every specialist. Focused questions use SDK handoffs...",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 32,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Manager + handoffs"
+          },
+          {
+            "index": 2,
+            "text": "Complete reviews use agents-as-tools"
+          },
+          {
+            "index": 3,
+            "text": "so the manager can combine every"
+          },
+          {
+            "index": 4,
+            "text": "specialist. Focused questions use SDK"
+          },
+          {
+            "index": 5,
+            "text": "handoffs so one specialist takes control."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Manager + handoffs",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 32,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "none",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Manager + handoffs",
+              "anchor": 1,
+              "fontSize": 32,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "none",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Complete reviews use agents-as-tools so the manager can combine every specialist. Focused questions use SDK handoffs so one specialist takes control.",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 32,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "autoFit": "none",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Complete reviews use agents-as-tools so the manager can combine every specialist. Focused questions use SDK handoffs so one specialist takes control.",
+              "anchor": 1,
+              "fontSize": 32,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "wrap": "square",
+              "autoFit": "none",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/hgv2t0z2",
+      "id": "6",
+      "bbox": [
+        658.17,
+        41.62,
+        581.6,
+        588.14
+      ],
+      "geometry": "roundRect",
+      "alt": "Architecture diagram showing manager, triage handoffs, six specialists, tools, memory, report, and human approvals",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "imageMask": {
+        "geometry": "roundRect"
+      },
+      "asset": {
+        "assetId": "632ceb42-d967-41fe-ae9d-ca46f2df4ac8",
+        "contentType": "image/png",
+        "byteLength": 124480
+      }
+    }
+  ],
+  "composeRuns": [
+    {
+      "index": 1,
+      "frame": {
+        "left": 0,
+        "top": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "baseUnit": 1,
+      "root": {
+        "path": "0",
+        "kind": "layers",
+        "name": "codex-grid-layout-library#slide-08",
+        "requestedSize": {
+          "width": {
+            "mode": "fill",
+            "value": 1
+          },
+          "height": {
+            "mode": "fill",
+            "value": 1
+          }
+        },
+        "intrinsicSize": {
+          "width": 1239.77,
+          "height": 684.57
+        },
+        "frame": {
+          "left": 0,
+          "top": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "children": [
+          {
+            "path": "0.0",
+            "kind": "text",
+            "name": "Google-Shape-532-p58-2",
+            "position": {
+              "left": 1184.18,
+              "top": 659.24
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 54.48
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 25.33
+              }
+            },
+            "intrinsicSize": {
+              "width": 54.48,
+              "height": 25.33
+            },
+            "frame": {
+              "left": 1184.18,
+              "top": 659.24,
+              "width": 54.48,
+              "height": 25.33
+            },
+            "snappedFrame": {
+              "left": 1184.18,
+              "top": 659.24,
+              "width": 54.48,
+              "height": 25.33
+            },
+            "children": [],
+            "text": "5",
+            "transform": "none",
+            "element": {
+              "aid": "sh/zyhgr2lo",
+              "id": "1",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.1",
+            "kind": "text",
+            "name": "Google-Shape-533-p58-3",
+            "position": {
+              "left": 41.33,
+              "top": 36.12
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1197.33
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 109.97
+              }
+            },
+            "intrinsicSize": {
+              "width": 1197.33,
+              "height": 109.97
+            },
+            "frame": {
+              "left": 41.33,
+              "top": 36.12,
+              "width": 1197.33,
+              "height": 109.97
+            },
+            "snappedFrame": {
+              "left": 41.33,
+              "top": 36.12,
+              "width": 1197.33,
+              "height": 109.97
+            },
+            "children": [],
+            "text": "Manager tools and handoffs",
+            "transform": "none",
+            "element": {
+              "aid": "sh/0zqh0729",
+              "id": "2",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.2",
+            "kind": "shape",
+            "name": "Picture-3-4-backing",
+            "position": {
+              "left": 658.17,
+              "top": 41.62
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 581.6
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 588.14
+              }
+            },
+            "intrinsicSize": {
+              "width": 581.6,
+              "height": 588.14
+            },
+            "frame": {
+              "left": 658.17,
+              "top": 41.62,
+              "width": 581.6,
+              "height": 588.14
+            },
+            "snappedFrame": {
+              "left": 658.17,
+              "top": 41.62,
+              "width": 581.6,
+              "height": 588.14
+            },
+            "children": [],
+            "geometry": "roundRect",
+            "element": {
+              "aid": "sh/l0zytc3u",
+              "id": "3",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.3",
+            "kind": "image",
+            "name": "Picture-3-4",
+            "position": {
+              "left": 658.17,
+              "top": 41.62
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 581.6
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 588.14
+              }
+            },
+            "intrinsicSize": {
+              "width": 581.6,
+              "height": 588.14
+            },
+            "frame": {
+              "left": 658.17,
+              "top": 41.62,
+              "width": 581.6,
+              "height": 588.14
+            },
+            "snappedFrame": {
+              "left": 658.17,
+              "top": 41.62,
+              "width": 581.6,
+              "height": 588.14
+            },
+            "children": [],
+            "source": {
+              "kind": "prompt",
+              "prompt": "Clean editorial light-blue conceptual image with subtle architectural geometry, ample white space, and no embedded text"
+            },
+            "fit": "cover",
+            "alt": "hero placeholder for Picture 3",
+            "geometry": "roundRect",
+            "element": {
+              "aid": "im/vedkrahc",
+              "id": "4",
+              "kind": "image"
+            }
+          },
+          {
+            "path": "0.4",
+            "kind": "text",
+            "name": "Google-Shape-534-p58-5",
+            "position": {
+              "left": 41.33,
+              "top": 213.33
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 581.33
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 416
+              }
+            },
+            "intrinsicSize": {
+              "width": 581.33,
+              "height": 416
+            },
+            "frame": {
+              "left": 41.33,
+              "top": 213.33,
+              "width": 581.33,
+              "height": 416
+            },
+            "snappedFrame": {
+              "left": 41.33,
+              "top": 213.33,
+              "width": 581.33,
+              "height": 416
+            },
+            "children": [],
+            "text": "Manager + handoffsComplete reviews use agents-as-tools so the manager can combine every specialist. Focused questions use SDK handoffs so one specialist takes control.",
+            "transform": "none",
+            "element": {
+              "aid": "sh/n2hgvm1k",
+              "id": "5",
+              "kind": "shape"
+            }
+          }
+        ],
+        "padding": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "alignItems": "stretch",
+        "justifyItems": "stretch",
+        "contentFrame": {
+          "left": 0,
+          "top": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "items": [
+          {
+            "path": "0.0",
+            "frame": {
+              "left": 1184.18,
+              "top": 659.24,
+              "width": 54.48,
+              "height": 25.33
+            }
+          },
+          {
+            "path": "0.1",
+            "frame": {
+              "left": 41.33,
+              "top": 36.12,
+              "width": 1197.33,
+              "height": 109.97
+            }
+          },
+          {
+            "path": "0.2",
+            "frame": {
+              "left": 658.17,
+              "top": 41.62,
+              "width": 581.6,
+              "height": 588.14
+            }
+          },
+          {
+            "path": "0.3",
+            "frame": {
+              "left": 658.17,
+              "top": 41.62,
+              "width": 581.6,
+              "height": 588.14
+            }
+          },
+          {
+            "path": "0.4",
+            "frame": {
+              "left": 41.33,
+              "top": 213.33,
+              "width": 581.33,
+              "height": 416
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

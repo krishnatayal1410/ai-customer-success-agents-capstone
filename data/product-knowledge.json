@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Team activation playbook",
+    "summary": "Invite inactive users in role-based cohorts and run a 30-minute workflow workshop with office hours one week later.",
+    "tags": ["activation", "seats", "onboarding"]
+  },
+  {
+    "title": "Automation adoption guide",
+    "summary": "Start with one repeatable business workflow, publish a template, name an internal champion, and measure weekly successful runs.",
+    "tags": ["automation", "adoption", "champion"]
+  },
+  {
+    "title": "Renewal value review",
+    "summary": "Quantify time saved, active teams, completed workflows, reliability, and the next expansion use case before renewal negotiation.",
+    "tags": ["renewal", "value", "roi"]
+  },
+  {
+    "title": "Support recovery protocol",
+    "summary": "Assign an executive owner, agree on incident milestones, provide daily updates, and close with a written prevention review.",
+    "tags": ["support", "escalation", "recovery"]
+  }
+]

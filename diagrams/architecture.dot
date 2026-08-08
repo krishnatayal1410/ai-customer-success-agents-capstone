@@ -1,0 +1,43 @@
+digraph G {
+  graph [rankdir=LR, bgcolor="white", pad=0.25, nodesep=0.42, ranksep=0.65, fontname="Helvetica"];
+  node [shape=box, style="rounded,filled", fillcolor="#EAF5FB", color="#3D8DFF", fontname="Helvetica", fontsize=12, margin="0.14,0.10"];
+  edge [color="#536273", fontname="Helvetica", fontsize=10, arrowsize=0.7];
+
+  user [label="Customer Success Manager\nHuman reviewer", fillcolor="#FFFFFF", color="#000000"];
+  manager [label="AI Customer Success Manager\nmanager orchestration", fillcolor="#D0EDFA"];
+  triage [label="Triage Agent\nhandoffs"];
+  health [label="Customer Health"];
+  product [label="Product Expert"];
+  support [label="Support Assistant"];
+  escalation [label="Escalation Manager"];
+  planner [label="Success Planner"];
+  analytics [label="Analytics"];
+  tools [label="8 local tools\nprofiles · usage · tickets · KB\nhealth · plan · follow-up · escalation", fillcolor="#F2F2F2", color="#777777"];
+  memory [label="SQLite session memory\n+ audit log", fillcolor="#F2F2F2", color="#777777"];
+  report [label="Structured AccountHealthReport", fillcolor="#FFFFFF", color="#000000"];
+
+  user -> manager [label="account review"];
+  manager -> health;
+  manager -> product;
+  manager -> support;
+  manager -> escalation;
+  manager -> planner;
+  manager -> analytics;
+  triage -> health [style=dashed];
+  triage -> product [style=dashed];
+  triage -> support [style=dashed];
+  triage -> escalation [style=dashed];
+  triage -> planner [style=dashed];
+  triage -> analytics [style=dashed];
+  health -> tools;
+  product -> tools;
+  support -> tools;
+  escalation -> tools;
+  planner -> tools;
+  analytics -> tools;
+  tools -> memory;
+  analytics -> report;
+  report -> user;
+  user -> escalation [label="approve / reject", color="#D64545"];
+  user -> planner [label="approve / reject", color="#D64545"];
+}

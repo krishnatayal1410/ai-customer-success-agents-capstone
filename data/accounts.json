@@ -1,0 +1,47 @@
+[
+  {
+    "account_id": "ACME-001",
+    "company": "Acme Retail India",
+    "plan": "Enterprise",
+    "licensed_seats": 120,
+    "active_seats": 43,
+    "days_since_login": 19,
+    "feature_adoption": 0.38,
+    "nps": -18,
+    "open_tickets": 7,
+    "high_priority_tickets": 2,
+    "renewal_days": 42,
+    "arr_usd": 84000,
+    "owner": "Krishna Tayal"
+  },
+  {
+    "account_id": "NOVA-002",
+    "company": "Nova Learning Labs",
+    "plan": "Growth",
+    "licensed_seats": 60,
+    "active_seats": 49,
+    "days_since_login": 2,
+    "feature_adoption": 0.72,
+    "nps": 41,
+    "open_tickets": 2,
+    "high_priority_tickets": 0,
+    "renewal_days": 95,
+    "arr_usd": 36000,
+    "owner": "Krishna Tayal"
+  },
+  {
+    "account_id": "ORBIT-003",
+    "company": "Orbit Logistics",
+    "plan": "Enterprise",
+    "licensed_seats": 200,
+    "active_seats": 139,
+    "days_since_login": 6,
+    "feature_adoption": 0.63,
+    "nps": 12,
+    "open_tickets": 4,
+    "high_priority_tickets": 1,
+    "renewal_days": 28,
+    "arr_usd": 128000,
+    "owner": "Krishna Tayal"
+  }
+]

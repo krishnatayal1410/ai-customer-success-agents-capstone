@@ -1,0 +1,29 @@
+[build-system]
+requires = ["hatchling>=1.25"]
+build-backend = "hatchling.build"
+
+[project]
+name = "customer-success-agents-capstone"
+version = "1.0.0"
+description = "OpenAI Agents SDK capstone: multi-agent SaaS customer success manager"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "openai-agents[litellm]==0.19.2",
+  "pydantic>=2.11,<3",
+  "python-dotenv>=1.1,<2",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.4,<9"]
+
+[project.scripts]
+customer-success-agents = "customer_success.cli:main"
+customer-success-demo = "customer_success.offline_demo:main"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/customer_success"]

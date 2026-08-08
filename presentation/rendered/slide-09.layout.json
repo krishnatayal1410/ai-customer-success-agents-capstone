@@ -1,0 +1,1617 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/gbgh5a",
+    "id": "gbgh5a",
+    "slide": 9,
+    "layoutId": "9c2fa7b5-89ac-4061-9681-aa371c215753",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "c3c351d7-9bde-4c9b-8e46-6c2ca8cce199",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Helvetica Neue"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "9c2fa7b5-89ac-4061-9681-aa371c215753",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "c3c351d7-9bde-4c9b-8e46-6c2ca8cce199",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "c3c351d7-9bde-4c9b-8e46-6c2ca8cce199",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/adkfixgf",
+      "id": "1",
+      "name": "Rounded-Rectangle-5-1",
+      "bbox": [
+        41.33,
+        317.33,
+        374.67,
+        312
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#F2F2F2"
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xgvydczq",
+      "id": "2",
+      "name": "Rounded-Rectangle-6-2",
+      "bbox": [
+        452.67,
+        317.33,
+        374.67,
+        312
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#F2F2F2"
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cfmxk7yl",
+      "id": "3",
+      "name": "Rounded-Rectangle-7-3",
+      "bbox": [
+        864.28,
+        317.33,
+        374.67,
+        312
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.2"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#F2F2F2"
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nqtg7iho",
+      "id": "4",
+      "name": "Slide-Number-Placeholder-1-4",
+      "bbox": [
+        1184.18,
+        659.24,
+        54.48,
+        25.33
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.3"
+      },
+      "geometry": "rect",
+      "text": "9",
+      "textPreview": "9",
+      "resolvedFontSize": 13.33,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "fontSize": 13.33,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "right",
+        "verticalAlignment": "bottom",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "9"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "9",
+          "resolvedTextStyle": {
+            "anchor": 3,
+            "fontSize": 13.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "right",
+            "verticalAlignment": "bottom",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "9",
+              "anchor": 3,
+              "fontSize": 13.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "right",
+              "verticalAlignment": "bottom",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2pkfedg3",
+      "id": "5",
+      "name": "Title-2-5",
+      "bbox": [
+        41.33,
+        36.12,
+        1197.33,
+        109.97
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.4"
+      },
+      "geometry": "rect",
+      "text": "The offline demo identifies a critical renewal risk",
+      "textPreview": "The offline demo identifies a critical renewal risk",
+      "resolvedFontSize": 38.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 38.67,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The offline demo identifies a critical renewal risk"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The offline demo identifies a critical renewal risk",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "fontSize": 38.67,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The offline demo identifies a critical renewal risk",
+              "anchor": 1,
+              "fontSize": 38.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "left",
+              "verticalAlignment": "top",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pcby9szu",
+      "id": "6",
+      "name": "Content-Placeholder-9-6",
+      "bbox": [
+        73.74,
+        514.5,
+        309.67,
+        86
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.5"
+      },
+      "geometry": "rect",
+      "text": "Health score\nCritical risk",
+      "textPreview": "Health score | Critical risk",
+      "resolvedFontSize": 31.83,
+      "resolvedTextStyle": {
+        "fontSize": 32,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "left",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.99,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Health score"
+          },
+          {
+            "index": 2,
+            "text": "Critical risk"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Health score\nCritical risk",
+          "resolvedTextStyle": {
+            "fontSize": 32,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Health score\nCritical risk",
+              "fontSize": 32,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "left",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 4.8,
+                "right": 9.6,
+                "bottom": 4.8,
+                "left": 9.6
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ob2xgny9",
+      "id": "7",
+      "name": "Content-Placeholder-10-7",
+      "bbox": [
+        896.78,
+        514.5,
+        309.67,
+        86
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.6"
+      },
+      "geometry": "rect",
+      "text": "Until renewal\nAction this week",
+      "textPreview": "Until renewal | Action this week",
+      "resolvedFontSize": 31.83,
+      "resolvedTextStyle": {
+        "fontSize": 32,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "left",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.99,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Until renewal"
+          },
+          {
+            "index": 2,
+            "text": "Action this week"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Until renewal\nAction this week",
+          "resolvedTextStyle": {
+            "fontSize": 32,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Until renewal\nAction this week",
+              "fontSize": 32,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "left",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 4.8,
+                "right": 9.6,
+                "bottom": 4.8,
+                "left": 9.6
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fmtg3ihs",
+      "id": "8",
+      "name": "Content-Placeholder-11-8",
+      "bbox": [
+        485.17,
+        514.5,
+        309.67,
+        86
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.7"
+      },
+      "geometry": "rect",
+      "text": "Feature adoption\nEnablement needed",
+      "textPreview": "Feature adoption | Enablement needed",
+      "resolvedFontSize": 31.83,
+      "resolvedTextStyle": {
+        "fontSize": 32,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "left",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.99,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Feature adoption"
+          },
+          {
+            "index": 2,
+            "text": "Enablement needed"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Feature adoption\nEnablement needed",
+          "resolvedTextStyle": {
+            "fontSize": 32,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Feature adoption\nEnablement needed",
+              "fontSize": 32,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "left",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 4.8,
+                "right": 9.6,
+                "bottom": 4.8,
+                "left": 9.6
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/el0fadg7",
+      "id": "9",
+      "name": "Content-Placeholder-9-9",
+      "bbox": [
+        73.74,
+        360,
+        308.67,
+        142.71
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.8"
+      },
+      "geometry": "rect",
+      "text": "34 / 100",
+      "textPreview": "34 / 100",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "fontSize": 32,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "bottom",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "34 / 100"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "34 / 100",
+          "resolvedTextStyle": {
+            "anchor": 3,
+            "fontSize": 32,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left",
+            "verticalAlignment": "bottom",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "34 / 100",
+              "anchor": 3,
+              "fontSize": 32,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "left",
+              "verticalAlignment": "bottom",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gzuxsbmh",
+      "id": "10",
+      "name": "Content-Placeholder-9-10",
+      "bbox": [
+        484.3,
+        360,
+        308.67,
+        142.71
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.9"
+      },
+      "geometry": "rect",
+      "text": "38%",
+      "textPreview": "38%",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "fontSize": 32,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "bottom",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "38%"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "38%",
+          "resolvedTextStyle": {
+            "anchor": 3,
+            "fontSize": 32,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left",
+            "verticalAlignment": "bottom",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "38%",
+              "anchor": 3,
+              "fontSize": 32,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "left",
+              "verticalAlignment": "bottom",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/103y1g32",
+      "id": "11",
+      "name": "Content-Placeholder-9-11",
+      "bbox": [
+        898.94,
+        360,
+        308.67,
+        142.71
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.10"
+      },
+      "geometry": "rect",
+      "text": "42 days",
+      "textPreview": "42 days",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "fontSize": 32,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "bottom",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "42 days"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "42 days",
+          "resolvedTextStyle": {
+            "anchor": 3,
+            "fontSize": 32,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left",
+            "verticalAlignment": "bottom",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "42 days",
+              "anchor": 3,
+              "fontSize": 32,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "left",
+              "verticalAlignment": "bottom",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/excfql4r",
+      "id": "12",
+      "name": "Content-Placeholder-15-12",
+      "bbox": [
+        41.33,
+        119.51,
+        1197.33,
+        167.92
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.11"
+      },
+      "geometry": "rect",
+      "text": "Synthetic account: Acme Retail India\nLow activity, low adoption, unresolved support risk, and a renewal inside 60 days combine into one structured account report.",
+      "textPreview": "Synthetic account: Acme Retail India | Low activity, low adoption, unresolved support risk, and a renewal inside 60 days combine into one...",
+      "resolvedFontSize": 21.33,
+      "resolvedTextStyle": {
+        "fontSize": 21.33,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Synthetic account: Acme Retail India"
+          },
+          {
+            "index": 2,
+            "text": "Low activity, low adoption, unresolved support risk, and a renewal inside 60 days combine into one structured account"
+          },
+          {
+            "index": 3,
+            "text": "report."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Synthetic account: Acme Retail India",
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left",
+            "autoFit": "none",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Synthetic account: Acme Retail India",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "left",
+              "autoFit": "none",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Low activity, low adoption, unresolved support risk, and a renewal inside 60 days combine into one structured account report.",
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left",
+            "autoFit": "none",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Low activity, low adoption, unresolved support risk, and a renewal inside 60 days combine into one structured account report.",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "left",
+              "autoFit": "none",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": [
+    {
+      "index": 1,
+      "frame": {
+        "left": 0,
+        "top": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "baseUnit": 1,
+      "root": {
+        "path": "0",
+        "kind": "layers",
+        "name": "codex-grid-layout-library#slide-19",
+        "requestedSize": {
+          "width": {
+            "mode": "fill",
+            "value": 1
+          },
+          "height": {
+            "mode": "fill",
+            "value": 1
+          }
+        },
+        "intrinsicSize": {
+          "width": 1238.95,
+          "height": 684.57
+        },
+        "frame": {
+          "left": 0,
+          "top": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "children": [
+          {
+            "path": "0.0",
+            "kind": "shape",
+            "name": "Rounded-Rectangle-5-1",
+            "position": {
+              "left": 41.33,
+              "top": 317.33
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 374.67
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 312
+              }
+            },
+            "intrinsicSize": {
+              "width": 374.67,
+              "height": 312
+            },
+            "frame": {
+              "left": 41.33,
+              "top": 317.33,
+              "width": 374.67,
+              "height": 312
+            },
+            "snappedFrame": {
+              "left": 41.33,
+              "top": 317.33,
+              "width": 374.67,
+              "height": 312
+            },
+            "children": [],
+            "geometry": "roundRect",
+            "element": {
+              "aid": "sh/adkfixgf",
+              "id": "1",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.1",
+            "kind": "shape",
+            "name": "Rounded-Rectangle-6-2",
+            "position": {
+              "left": 452.67,
+              "top": 317.33
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 374.67
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 312
+              }
+            },
+            "intrinsicSize": {
+              "width": 374.67,
+              "height": 312
+            },
+            "frame": {
+              "left": 452.67,
+              "top": 317.33,
+              "width": 374.67,
+              "height": 312
+            },
+            "snappedFrame": {
+              "left": 452.67,
+              "top": 317.33,
+              "width": 374.67,
+              "height": 312
+            },
+            "children": [],
+            "geometry": "roundRect",
+            "element": {
+              "aid": "sh/xgvydczq",
+              "id": "2",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.2",
+            "kind": "shape",
+            "name": "Rounded-Rectangle-7-3",
+            "position": {
+              "left": 864.28,
+              "top": 317.33
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 374.67
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 312
+              }
+            },
+            "intrinsicSize": {
+              "width": 374.67,
+              "height": 312
+            },
+            "frame": {
+              "left": 864.28,
+              "top": 317.33,
+              "width": 374.67,
+              "height": 312
+            },
+            "snappedFrame": {
+              "left": 864.28,
+              "top": 317.33,
+              "width": 374.67,
+              "height": 312
+            },
+            "children": [],
+            "geometry": "roundRect",
+            "element": {
+              "aid": "sh/cfmxk7yl",
+              "id": "3",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.3",
+            "kind": "text",
+            "name": "Slide-Number-Placeholder-1-4",
+            "position": {
+              "left": 1184.18,
+              "top": 659.24
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 54.48
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 25.33
+              }
+            },
+            "intrinsicSize": {
+              "width": 54.48,
+              "height": 25.33
+            },
+            "frame": {
+              "left": 1184.18,
+              "top": 659.24,
+              "width": 54.48,
+              "height": 25.33
+            },
+            "snappedFrame": {
+              "left": 1184.18,
+              "top": 659.24,
+              "width": 54.48,
+              "height": 25.33
+            },
+            "children": [],
+            "text": "9",
+            "transform": "none",
+            "element": {
+              "aid": "sh/nqtg7iho",
+              "id": "4",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.4",
+            "kind": "text",
+            "name": "Title-2-5",
+            "position": {
+              "left": 41.33,
+              "top": 36.12
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1197.33
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 109.97
+              }
+            },
+            "intrinsicSize": {
+              "width": 1197.33,
+              "height": 109.97
+            },
+            "frame": {
+              "left": 41.33,
+              "top": 36.12,
+              "width": 1197.33,
+              "height": 109.97
+            },
+            "snappedFrame": {
+              "left": 41.33,
+              "top": 36.12,
+              "width": 1197.33,
+              "height": 109.97
+            },
+            "children": [],
+            "text": "The offline demo identifies a critical renewal risk",
+            "transform": "none",
+            "element": {
+              "aid": "sh/2pkfedg3",
+              "id": "5",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.5",
+            "kind": "text",
+            "name": "Content-Placeholder-9-6",
+            "position": {
+              "left": 73.74,
+              "top": 514.5
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 309.67
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 86
+              }
+            },
+            "intrinsicSize": {
+              "width": 309.67,
+              "height": 86
+            },
+            "frame": {
+              "left": 73.74,
+              "top": 514.5,
+              "width": 309.67,
+              "height": 86
+            },
+            "snappedFrame": {
+              "left": 73.74,
+              "top": 514.5,
+              "width": 309.67,
+              "height": 86
+            },
+            "children": [],
+            "text": "Health score\nCritical risk",
+            "transform": "none",
+            "element": {
+              "aid": "sh/pcby9szu",
+              "id": "6",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.6",
+            "kind": "text",
+            "name": "Content-Placeholder-10-7",
+            "position": {
+              "left": 896.78,
+              "top": 514.5
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 309.67
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 86
+              }
+            },
+            "intrinsicSize": {
+              "width": 309.67,
+              "height": 86
+            },
+            "frame": {
+              "left": 896.78,
+              "top": 514.5,
+              "width": 309.67,
+              "height": 86
+            },
+            "snappedFrame": {
+              "left": 896.78,
+              "top": 514.5,
+              "width": 309.67,
+              "height": 86
+            },
+            "children": [],
+            "text": "Until renewal\nAction this week",
+            "transform": "none",
+            "element": {
+              "aid": "sh/ob2xgny9",
+              "id": "7",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.7",
+            "kind": "text",
+            "name": "Content-Placeholder-11-8",
+            "position": {
+              "left": 485.17,
+              "top": 514.5
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 309.67
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 86
+              }
+            },
+            "intrinsicSize": {
+              "width": 309.67,
+              "height": 86
+            },
+            "frame": {
+              "left": 485.17,
+              "top": 514.5,
+              "width": 309.67,
+              "height": 86
+            },
+            "snappedFrame": {
+              "left": 485.17,
+              "top": 514.5,
+              "width": 309.67,
+              "height": 86
+            },
+            "children": [],
+            "text": "Feature adoption\nEnablement needed",
+            "transform": "none",
+            "element": {
+              "aid": "sh/fmtg3ihs",
+              "id": "8",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.8",
+            "kind": "text",
+            "name": "Content-Placeholder-9-9",
+            "position": {
+              "left": 73.74,
+              "top": 360
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 308.67
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 142.71
+              }
+            },
+            "intrinsicSize": {
+              "width": 308.67,
+              "height": 142.71
+            },
+            "frame": {
+              "left": 73.74,
+              "top": 360,
+              "width": 308.67,
+              "height": 142.71
+            },
+            "snappedFrame": {
+              "left": 73.74,
+              "top": 360,
+              "width": 308.67,
+              "height": 142.71
+            },
+            "children": [],
+            "text": "34 / 100",
+            "transform": "none",
+            "element": {
+              "aid": "sh/el0fadg7",
+              "id": "9",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.9",
+            "kind": "text",
+            "name": "Content-Placeholder-9-10",
+            "position": {
+              "left": 484.3,
+              "top": 360
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 308.67
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 142.71
+              }
+            },
+            "intrinsicSize": {
+              "width": 308.67,
+              "height": 142.71
+            },
+            "frame": {
+              "left": 484.3,
+              "top": 360,
+              "width": 308.67,
+              "height": 142.71
+            },
+            "snappedFrame": {
+              "left": 484.3,
+              "top": 360,
+              "width": 308.67,
+              "height": 142.71
+            },
+            "children": [],
+            "text": "38%",
+            "transform": "none",
+            "element": {
+              "aid": "sh/gzuxsbmh",
+              "id": "10",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.10",
+            "kind": "text",
+            "name": "Content-Placeholder-9-11",
+            "position": {
+              "left": 898.94,
+              "top": 360
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 308.67
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 142.71
+              }
+            },
+            "intrinsicSize": {
+              "width": 308.67,
+              "height": 142.71
+            },
+            "frame": {
+              "left": 898.94,
+              "top": 360,
+              "width": 308.67,
+              "height": 142.71
+            },
+            "snappedFrame": {
+              "left": 898.94,
+              "top": 360,
+              "width": 308.67,
+              "height": 142.71
+            },
+            "children": [],
+            "text": "42 days",
+            "transform": "none",
+            "element": {
+              "aid": "sh/103y1g32",
+              "id": "11",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.11",
+            "kind": "text",
+            "name": "Content-Placeholder-15-12",
+            "position": {
+              "left": 41.33,
+              "top": 119.51
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1197.33
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 167.92
+              }
+            },
+            "intrinsicSize": {
+              "width": 1197.33,
+              "height": 167.92
+            },
+            "frame": {
+              "left": 41.33,
+              "top": 119.51,
+              "width": 1197.33,
+              "height": 167.92
+            },
+            "snappedFrame": {
+              "left": 41.33,
+              "top": 119.51,
+              "width": 1197.33,
+              "height": 167.92
+            },
+            "children": [],
+            "text": "Synthetic account: Acme Retail IndiaLow activity, low adoption, unresolved support risk, and a renewal inside 60 days combine into one structured account report.",
+            "transform": "none",
+            "element": {
+              "aid": "sh/excfql4r",
+              "id": "12",
+              "kind": "shape"
+            }
+          }
+        ],
+        "padding": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "alignItems": "stretch",
+        "justifyItems": "stretch",
+        "contentFrame": {
+          "left": 0,
+          "top": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "items": [
+          {
+            "path": "0.0",
+            "frame": {
+              "left": 41.33,
+              "top": 317.33,
+              "width": 374.67,
+              "height": 312
+            }
+          },
+          {
+            "path": "0.1",
+            "frame": {
+              "left": 452.67,
+              "top": 317.33,
+              "width": 374.67,
+              "height": 312
+            }
+          },
+          {
+            "path": "0.2",
+            "frame": {
+              "left": 864.28,
+              "top": 317.33,
+              "width": 374.67,
+              "height": 312
+            }
+          },
+          {
+            "path": "0.3",
+            "frame": {
+              "left": 1184.18,
+              "top": 659.24,
+              "width": 54.48,
+              "height": 25.33
+            }
+          },
+          {
+            "path": "0.4",
+            "frame": {
+              "left": 41.33,
+              "top": 36.12,
+              "width": 1197.33,
+              "height": 109.97
+            }
+          },
+          {
+            "path": "0.5",
+            "frame": {
+              "left": 73.74,
+              "top": 514.5,
+              "width": 309.67,
+              "height": 86
+            }
+          },
+          {
+            "path": "0.6",
+            "frame": {
+              "left": 896.78,
+              "top": 514.5,
+              "width": 309.67,
+              "height": 86
+            }
+          },
+          {
+            "path": "0.7",
+            "frame": {
+              "left": 485.17,
+              "top": 514.5,
+              "width": 309.67,
+              "height": 86
+            }
+          },
+          {
+            "path": "0.8",
+            "frame": {
+              "left": 73.74,
+              "top": 360,
+              "width": 308.67,
+              "height": 142.71
+            }
+          },
+          {
+            "path": "0.9",
+            "frame": {
+              "left": 484.3,
+              "top": 360,
+              "width": 308.67,
+              "height": 142.71
+            }
+          },
+          {
+            "path": "0.10",
+            "frame": {
+              "left": 898.94,
+              "top": 360,
+              "width": 308.67,
+              "height": 142.71
+            }
+          },
+          {
+            "path": "0.11",
+            "frame": {
+              "left": 41.33,
+              "top": 119.51,
+              "width": 1197.33,
+              "height": 167.92
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
